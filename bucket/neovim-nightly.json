@@ -1,5 +1,5 @@
 {
-    "version": "0.7.0-dev-1443-gdbd5242d8",
+    "version": "20220412",
     "description": "Vim fork focused on extensibility and usability",
     "homepage": "https://neovim.io",
     "license": {
