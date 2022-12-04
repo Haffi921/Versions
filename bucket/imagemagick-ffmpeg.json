@@ -2,15 +2,15 @@
     "homepage": "https://imagemagick.org/",
     "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
     "license": "ImageMagick",
-    "version": "7.1.0-5",
+    "version": "7.1.0-53",
     "architecture": {
         "64bit": {
-            "url": "https://www.imagemagick.org/download/binaries/ImageMagick-7.1.0-5-portable-Q16-x64.zip",
-            "hash": "3ebab672e9b06a5c259254ddd270fb796ab05836606eb7b3e134060a0c677897"
+            "url": "https://www.imagemagick.org/download/binaries/ImageMagick-7.1.0-53-portable-Q16-x64.zip",
+            "hash": "9389276b7c75a10bcdea01dd574bc41d530dd220adb9f4adfea1b6d243ad5d31"
         },
         "32bit": {
-            "url": "https://www.imagemagick.org/download/binaries/ImageMagick-7.1.0-5-portable-Q16-x86.zip",
-            "hash": "6317eadfafd770f493272e1e92cf1d814c87da21ec54398f08a2837f4d26ec00"
+            "url": "https://www.imagemagick.org/download/binaries/ImageMagick-7.1.0-53-portable-Q16-x86.zip",
+            "hash": "c29a0f790912d1100e2010cd5accf82d54e7ab181657ba03b56e14ac892b77e0"
         }
     },
     "bin": [
