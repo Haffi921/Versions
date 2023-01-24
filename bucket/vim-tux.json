@@ -1,5 +1,5 @@
 {
-    "version": "9.0.1221",
+    "version": "9.0.1235",
     "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
     "homepage": "https://tuxproject.de/projects/vim",
     "license": "Vim",
@@ -15,7 +15,7 @@
                 "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/vim/uninstall-context.reg"
             ],
             "hash": [
-                "f391e4ac21ac0fdf8e0035b732c97033248330d12e6009c645b74ec44e513d06",
+                "ebf6a418d86b6e1a36dbb5eeaaca8913f78cfb2d9e61a9ec38bdff5462d018f5",
                 "16a29881837047d783e8556506c73bbb292bdfefe042d77564d3c166d92b9d98",
                 "49225d3470bf4b397d3cab865eddca6e47610be356f812588588c2661a11557e"
             ]
@@ -27,7 +27,7 @@
                 "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/vim/uninstall-context.reg"
             ],
             "hash": [
-                "e3e6352b735bf047b907fa7a24dadd976e786d2094e79704cd87e7e7ab620ac1",
+                "9298d1611aa59b49f3aa99cd6a864d6aa1e5d2e219874474dbfcbbeff01f4cbc",
                 "16a29881837047d783e8556506c73bbb292bdfefe042d77564d3c166d92b9d98",
                 "49225d3470bf4b397d3cab865eddca6e47610be356f812588588c2661a11557e"
             ]
