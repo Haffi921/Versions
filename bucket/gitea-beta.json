@@ -1,16 +1,16 @@
 {
     "homepage": "https://gitea.io/",
-    "version": "1.22.0-rc1",
+    "version": "1.23.0-rc0",
     "license": "MIT",
     "description": "Git with a cup of tea, painless self-hosted git service.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/go-gitea/gitea/releases/download/v1.22.0-rc1/gitea-1.22.0-rc1-windows-4.0-amd64.exe#/gitea.exe",
-            "hash": "2192594274d64f666509ce401037e0168e252d0e7a8a2b41279dcba566a55606"
+            "url": "https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-1.23.0-rc0-windows-4.0-amd64.exe#/gitea.exe",
+            "hash": "cdda2b39a9acb1c1831c21f2ae1fccf7f400f724771183209dc74aa6c94cd541"
         },
         "32bit": {
-            "url": "https://github.com/go-gitea/gitea/releases/download/v1.22.0-rc1/gitea-1.22.0-rc1-windows-4.0-386.exe#/gitea.exe",
-            "hash": "e3c26ee9d120bfd754cfa8f3b031c5fbfab0e4e123e7d5ca2e2a3459be609a27"
+            "url": "https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-1.23.0-rc0-windows-4.0-386.exe#/gitea.exe",
+            "hash": "724eb20e67975d3991e51c386c50f70a29e2f14fb584caf699bc5a66d31682cc"
         }
     },
     "post_install": [
