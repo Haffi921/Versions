@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/PowerShell/PowerShell",
-    "version": "7.7.0-preview.5",
+    "version": "7.7.0-rc.1",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.5/PowerShell-7.7.0-preview.5-win-x64.zip",
-            "hash": "ba727d1890f7dbcba05286bc0e61fc9f168de9ba2a1003c4934bce8e38bbfd1b"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-rc.1/PowerShell-7.7.0-rc.1-win-x64.zip",
+            "hash": "2bb33156e2acefe127a9a5e88583aec9835ee005a215c68280e346b6ebb44182"
         },
         "32bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.5/PowerShell-7.7.0-preview.5-win-x86.zip",
-            "hash": "00f82056a42411ab14c947fca90d14027d185186d98ba0ac354d66b896d1e55c"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-rc.1/PowerShell-7.7.0-rc.1-win-x86.zip",
+            "hash": "bb5baae9a676e34da9e640c6e5c2e65aa7fab3d3951a62231a34904f2fc00093"
         }
     },
     "bin": "pwsh.exe",
